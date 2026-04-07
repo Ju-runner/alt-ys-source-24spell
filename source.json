@@ -1,0 +1,43 @@
+{
+  "name": "AltStore Source",
+  "apps": [
+    {
+      "name": "24 Spell",
+      "bundleIdentifier": "com.24.spell",
+      "marketplaceID": "6761418596",
+      "developerName": "IJ birojs SIA",
+      "subtitle": "Compete in 24 Spell game!",
+      "localizedDescription": "24 Spell is a simple but super addictive mental math game. You get 4 numbers and you need to combine them using +, -, ×, and / to get exactly 24.\nIt's a classic riddle, but we made it competitive.\n\n- 1v1 Same-Screen Mode: Challenge a friend right there on your phone. It's a head-to-head race to see who's got the fastest brain.\n- Mental Workout: Forget boring brain trainers. This is fast, intense, and actually helps you get better at math without feeling like homework.\n- Clean Design: No annoying menus or distractions. Just open the app, hit Start, and you're in the game.\n\nThe Rules:\n- Look at your 4 numbers.\n- Use the operators to reach 24.\n- Tap \"OK\" before your friend does.\n- Win.",
+      "iconURL": "https://ju-runner.github.io/alt-ys-source-24spell/icons/icon.png",
+      "tintColor": "#0A84FF",
+      "category": "games",
+      "screenshots": [
+        "https://ju-runner.github.io/alt-ys-source-24spell/screenshots/screenshot1.png",
+        "https://ju-runner.github.io/alt-ys-source-24spell/screenshots/screenshot2.png",
+        "https://ju-runner.github.io/alt-ys-source-24spell/screenshots/screenshot3.png"
+      ],
+      "versions": [
+        {
+          "version": "1.2",
+          "buildVersion": "1",
+          "date": "2026-04-07",
+          "downloadURL": "https://ju-runner.github.io/24spell-alt-adp/manifest.json",
+          "size": 6265312
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "We need access to your camera to let you make a photo when needed.",
+          "NSMicrophoneUsageDescription": "App may request microphone access when needed.",
+          "NSUserTrackingUsageDescription": "This ATT ID will be used to deliver personalized ads to you.",
+          "NSPhotoLibraryUsageDescription": "We need access to your photo library to let you choose a photo when needed."
+        }
+      }
+    }
+  ],
+  "news": []
+}
